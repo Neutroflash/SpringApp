@@ -9,7 +9,7 @@ Este es un proyecto de ejemplo para demostrar cómo crear una aplicación básic
 
 ## Configuración del proyecto
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/my-first-spring-app.git`
+1. Clona este repositorio: `git@github.com:Neutroflash/SpringApp.git`
 2. Navega al directorio del proyecto: `cd my-first-spring-app`
 
 ## Ejecución de la aplicación
